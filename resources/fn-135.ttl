@@ -1,0 +1,8 @@
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://dbpedia.org/ontology/city>	"Alhama de Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://schema.org/location>	"Alhama de Murcia, Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://schema.org/name>	"Los Mayos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://dbpedia.org/ontology/province>	"Murcia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-135>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .

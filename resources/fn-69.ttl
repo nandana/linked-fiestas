@@ -1,0 +1,8 @@
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Festival> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Festivals_in_Spain> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://dbpedia.org/ontology/city>	"Herencia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://schema.org/location>	"Herencia, Ciudad Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://schema.org/name>	"Carnaval"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://dbpedia.org/ontology/province>	"Ciudad Real"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://www.w3.org/ns/prov#wasAttributedTo>	<https://fiestas.net/> .
+<https://w3id.org/linked-fiestas/resource/fn-69>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<https://fiestas.net/> .
